@@ -677,7 +677,7 @@ If this tool helped you, please consider:
 
 **Last Updated:** November 2024  
 **Version:** 2.0  
-**Maintainer:** Anoop B A 
+**Maintainer:** Anoop B A  
 **Status:** ✅ Active Development
 
 ---
